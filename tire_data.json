@@ -1,0 +1,2543 @@
+[
+    {
+        "tire_type": "SCOOTER",
+        "tire_link": "https://www.irctirethailand.com/product-category/%e0%b8%a2%e0%b8%b2%e0%b8%87%e0%b8%aa%e0%b8%81%e0%b8%b9%e0%b9%8a%e0%b8%95%e0%b9%80%e0%b8%95%e0%b8%ad%e0%b8%a3%e0%b9%8c/",
+        "tires": [
+            {
+                "name": "EB-01",
+                "description": "ยางสำหรับรถมอเตอร์ไซค์ไฟฟ้า หรือไฮบริด สายพันธ์รักษ์โลกมุ่งเน้นการประหยัดพลังงานและความมั่นใจในการขับขี่\nเพิ่มขีดความสามารถในการขับขี่ ด้วยนวัตกรรมโครงสร้างใหม่ Light Weight Profile ซึ่งสามารถลดน้ำหนักของโครงสร้างยางได้เบากว่ายางทั่วไป\nยางคอมเปาว์สูตรใหม่ โดดเด่นเรื่องการลดแรงต้านทานการหมุนกับพื้นผิวถนนได้ต่ำกว่ายางทั่วไป, มาพร้อมกับการยึดเกาะและระยะเบรคที่สั้นอยู่ในระดับค่ามาตรฐาน รวมถึงอายุการใช้งานทนทานและเหนือกว่ายางทั่วไป\nลายดอกยางเอกลักษณ์ใหม่ ช่วยลดแรงเสียดทานในทิศทางการวิ่ง มาพร้อมกับลายแก้มยางแบบใหม่ เพิ่มความโดดเด่นให้กับรถมอเตอร์ไซค์",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2023/08/EB-01-scaled-e1691984219389-570x536.jpeg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า, หลัง",
+                        "size": "3.00-10 45J",
+                        "pattern_type": "EB-01/TL",
+                        "diameter": "410",
+                        "width": "87",
+                        "measurement_rim": "MT 2.50",
+                        "standard_rim": "MT 2.50"
+                    },
+                    {
+                        "wheel_position": "หน้า, หลัง",
+                        "size": "90/90-12 54J",
+                        "pattern_type": "EB-01/TL",
+                        "diameter": "469",
+                        "width": "90",
+                        "measurement_rim": "MT 2.15",
+                        "standard_rim": "MT 2.15"
+                    },
+                    {
+                        "wheel_position": "หน้า, หลัง",
+                        "size": "110/70-12 45L",
+                        "pattern_type": "EB-01/TL",
+                        "diameter": "467",
+                        "width": "108",
+                        "measurement_rim": "MT 3.00",
+                        "standard_rim": "MT 3.00"
+                    }
+                ]
+            },
+            {
+                "name": "S99T",
+                "description": "ยางสายพันธุ์ใหม่ระดับพรีเมี่ยมในชื่อรุ่น IZ-Ss Scooters Sport S99T ที่ได้ถูกพัฒนาสมรรถนะและถ่ายทอดเทคโนโลยียางคอมเปาว์จากรุ่น IZ-S Super Sport S99 โดยยางตัวนี้เป็นยางรถจักรยานยนต์ที่เน้นการใช้งานตั้งแต่ การขับขี่บนท้องถนนทั่วไป จนถึงการขับขี่ด้วยความเร็วสูง ในสไตล์ Big Scooters Sport IZ-Ss",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/S99T-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "110/80-14 M/C 53P",
+                        "pattern_type": "S99 T/L",
+                        "diameter": "532",
+                        "width": "110",
+                        "measurement_rim": "MT 2.50",
+                        "standard_rim": "MT 2.50"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "130/70-12 56L",
+                        "pattern_type": "S99 T/L",
+                        "diameter": "487",
+                        "width": "130",
+                        "measurement_rim": "MT 3.50",
+                        "standard_rim": "MT 3.50"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "130/70-13 M/C 56P",
+                        "pattern_type": "S99 T/L",
+                        "diameter": "512",
+                        "width": "129",
+                        "measurement_rim": "MT 3.50",
+                        "standard_rim": "MT 3.50"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "140/70-13 M/C 61P",
+                        "pattern_type": "S99 T/L",
+                        "diameter": "526",
+                        "width": "140",
+                        "measurement_rim": "MT 3.75",
+                        "standard_rim": "MT 3.75"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "140/70-14 M/C 68S",
+                        "pattern_type": "S99 T/L",
+                        "diameter": "552",
+                        "width": "141",
+                        "measurement_rim": "MT 4.00",
+                        "standard_rim": "MT 4.00"
+                    },
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "100/90-12 59J",
+                        "pattern_type": "S99 T/L",
+                        "diameter": "485",
+                        "width": "100",
+                        "measurement_rim": "MT 2.50",
+                        "standard_rim": "MT 2.50"
+                    },
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "110/90-12 64L",
+                        "pattern_type": "S99 T/L",
+                        "diameter": "485",
+                        "width": "100",
+                        "measurement_rim": "MT 2.50",
+                        "standard_rim": "MT 2.50"
+                    },
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "110/70-12 47L",
+                        "pattern_type": "S99 T/L",
+                        "diameter": "459",
+                        "width": "110",
+                        "measurement_rim": "MT 2.50",
+                        "standard_rim": "MT 2.50"
+                    },
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "120/70-12 51L",
+                        "pattern_type": "S99 T/L",
+                        "diameter": "473",
+                        "width": "120",
+                        "measurement_rim": "MT 3.50",
+                        "standard_rim": "MT 3.50"
+                    },
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "110/70-13 M/C 63P",
+                        "pattern_type": "S99 T/L",
+                        "diameter": "484",
+                        "width": "110",
+                        "measurement_rim": "MT 3.00",
+                        "standard_rim": "MT 3.00"
+                    },
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "90/90-14 M/C 46P",
+                        "pattern_type": "S99 T/L",
+                        "diameter": "518",
+                        "width": "90",
+                        "measurement_rim": "MT 2.15",
+                        "standard_rim": "MT 2.15"
+                    },
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "100/80-14 M/C 48P",
+                        "pattern_type": "S99 T/L",
+                        "diameter": "516",
+                        "width": "101",
+                        "measurement_rim": "MT 2.50",
+                        "standard_rim": "MT 2.50"
+                    },
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "100/90-14 M/C 57P",
+                        "pattern_type": "S99 T/L",
+                        "diameter": "536",
+                        "width": "101",
+                        "measurement_rim": "MT 2.50",
+                        "standard_rim": "MT 2.50"
+                    },
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "120/70-14 M/C 61P",
+                        "pattern_type": "S99 T/L",
+                        "diameter": "524",
+                        "width": "122",
+                        "measurement_rim": "MT 3.50",
+                        "standard_rim": "MT 3.50"
+                    },
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "120/70-15 M/C 56S",
+                        "pattern_type": "S99 T/L",
+                        "diameter": "549",
+                        "width": "122",
+                        "measurement_rim": "MT 3.50",
+                        "standard_rim": "MT 3.50"
+                    }
+                ]
+            },
+            {
+                "name": "MB38",
+                "description": "ยางสกูตเตอร์รุ่นที่นิยมใช้มากที่สุดในประเทศญี่ปุ่น\nออกแบบลวดลายดอกยางเป็นแบบทางเดียว เหมาะกับรถสกูตเตอร์โดยเฉพาะ\nมีหลากหลายขนาดให้เลือก\nมีให้เลือกทั้งแบบใช้กับยางใน และไม่ใช้ยางใน ใช้ประกอบกับรถจักรยานยนต์ Yamaha JOG และ Suzuki CHOINORI",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/MB38-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "3.00-8 2PR (26J)",
+                        "pattern_type": "MB38 W/T",
+                        "diameter": "369",
+                        "width": "78",
+                        "measurement_rim": "2.15",
+                        "standard_rim": "2.15"
+                    },
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "2.75-10 2PR (26J)",
+                        "pattern_type": "MB38 W/T",
+                        "diameter": "400",
+                        "width": "79",
+                        "measurement_rim": "1.85",
+                        "standard_rim": "1.85"
+                    },
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "3.00-10 4PR (42J)",
+                        "pattern_type": "MB38 W/T, T/L",
+                        "diameter": "414",
+                        "width": "85",
+                        "measurement_rim": "MT 2.15",
+                        "standard_rim": "MT 2.15"
+                    },
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "80/90-10 44J",
+                        "pattern_type": "MB38 T/L",
+                        "diameter": "400",
+                        "width": "83",
+                        "measurement_rim": "MT 1.85",
+                        "standard_rim": "MT 1.85"
+                    },
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "90/90-10 50J",
+                        "pattern_type": "MB38 T/L",
+                        "diameter": "416",
+                        "width": "94",
+                        "measurement_rim": "MT 2.15",
+                        "standard_rim": "MT 2.15"
+                    }
+                ]
+            },
+            {
+                "name": "MB47",
+                "description": "ยางสกูตเตอร์รุ่นที่ได้รับความนิยมมากที่สุดสำหรับรถสกูตตเตอร์\nลายดอกยางแบบทิศทางเดียว ช่วยเพิ่มประสิทธิภาพในการใช้งานอย่างเต็มที่\nเป็นชนิด แบบไม่ใช้ยางใน",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/MB47-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "90/100-10 53J",
+                        "pattern_type": "MB47 T/L",
+                        "diameter": "437",
+                        "width": "93",
+                        "measurement_rim": "MT 2.15",
+                        "standard_rim": "MT 2.15"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "100/90-10 56J",
+                        "pattern_type": "MB47 T/L",
+                        "diameter": "433",
+                        "width": "103",
+                        "measurement_rim": "MT 2.50",
+                        "standard_rim": "MT 2.50"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "110/80-10 58J",
+                        "pattern_type": "MB47 T/L",
+                        "diameter": "425",
+                        "width": "112",
+                        "measurement_rim": "MT 2.50",
+                        "standard_rim": "MT 2.50"
+                    }
+                ]
+            },
+            {
+                "name": "MB48",
+                "description": "ยางสกูตเตอร์รุ่นที่ได้รับความนิยมมากที่สุดสำหรับรถสกูตเตอร์\nลายดอกยางแบบทิศทางเดียว ช่วยเพิ่มประสิทธิภาพในการใช้งานอย่างเต็มที่\nเป็นชนิด แบบไม่ใช้ยางใน",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/MB48-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "90/100-10 53J",
+                        "pattern_type": "MB48 T/L",
+                        "diameter": "433",
+                        "width": "94",
+                        "measurement_rim": "MT 2.15",
+                        "standard_rim": "MT 2.15"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "100/90-10 56J",
+                        "pattern_type": "MB48 T/L",
+                        "diameter": "435",
+                        "width": "103",
+                        "measurement_rim": "MT 2.50",
+                        "standard_rim": "MT 2.50"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "100/90-12 59J",
+                        "pattern_type": "MB48 T/L",
+                        "diameter": "491",
+                        "width": "102",
+                        "measurement_rim": "MT 2.50",
+                        "standard_rim": "MT 2.50"
+                    }
+                ]
+            },
+            {
+                "name": "MB57",
+                "description": "ยางสกูตเตอร์รุ่นที่ได้รับความนิยมมากที่สุดสำหรับรถสกูตเตอร์\nลายดอกยางแบบทิศทางเดียว ช่วยเพิ่มประสิทธิภาพในการใช้งานอย่างเต็มที่\nเป็นชนิด แบบไม่ใช้ยางใน",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/MB57-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "110/90-10 51J",
+                        "pattern_type": "MB57 T/L",
+                        "diameter": "450",
+                        "width": "109",
+                        "measurement_rim": "MT 2.50",
+                        "standard_rim": "MT 2.50"
+                    }
+                ]
+            },
+            {
+                "name": "MB58",
+                "description": "ยางสกูตเตอร์รุ่นที่ได้รับความนิยมมากที่สุดสำหรับรถสกูตเตอร์\nลายดอกยางแบบทิศทางเดียว ช่วยเพิ่มประสิทธิภาพในการใช้งานอย่างเต็มที่\nเป็นชนิด แบบไม่ใช้ยางใน",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/MB58-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "90/90-12 44J",
+                        "pattern_type": "MB58 T/L",
+                        "diameter": "471",
+                        "width": "89",
+                        "measurement_rim": "MT 2.15",
+                        "standard_rim": "MT 2.15"
+                    }
+                ]
+            },
+            {
+                "name": "MB62",
+                "description": "ยางสกูตเตอร์รุ่นที่นิยมใช้มากที่สุดในประเทศญี่ปุ่น\nออกแบบลวดลายดอกยางเป็นแบบทางเดียว เหมาะกับรถสกูตเตอร์โดยเฉพาะ\nมีหลากหลายขนาดให้เลือก\nมีให้เลือกทั้งแบบใช้กับยางใน และไม่ใช้ยางใน ใช้ประกอบกับรถจักรยานยนต์\nYamaha JOG และ Suzuki CHOINORI",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/MB62-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "90/90-10 40J",
+                        "pattern_type": "MB62 T/L",
+                        "diameter": "418",
+                        "width": "92",
+                        "measurement_rim": "MT 2.15",
+                        "standard_rim": "MT 2.15"
+                    }
+                ]
+            },
+            {
+                "name": "MB65",
+                "description": "ยางสกูตเตอร์รุ่นที่นิยมใช้มากที่สุดในประเทศญี่ปุ่น\nออกแบบลวดลายดอกยางเป็นแบบทางเดียว เหมาะกับรถสกูตเตอร์โดยเฉพาะ\nมีหลากหลายขนาดให้เลือก\nมีให้เลือกทั้งแบบใช้กับยางใน และไม่ใช้ยางใน ใช้ประกอบกับรถจักรยานยนต์\nYamaha JOG และ Suzuki CHOINORI",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/MB65-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "90/90-10 50J",
+                        "pattern_type": "MB65 T/L",
+                        "diameter": "419",
+                        "width": "92",
+                        "measurement_rim": "MT 2.15",
+                        "standard_rim": "MT 2.15"
+                    }
+                ]
+            },
+            {
+                "name": "MB67",
+                "description": "ยางที่มีแรงต้านทานต่ำ เพื่อเพิ่มสิทธิภาพการประหยัดน้ำมันสูงสุด\nได้รับการยอมรับให้เป็นยางหน้า ติดรถจักรยานยนต์ Honda Zoomer-X",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/MB67-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "110/90-12 64L",
+                        "pattern_type": "MB67 T/L",
+                        "diameter": "506",
+                        "width": "110",
+                        "measurement_rim": "MT 2.50",
+                        "standard_rim": "MT 2.50"
+                    }
+                ]
+            },
+            {
+                "name": "MB81",
+                "description": "ยางสกูตเตอร์รุ่นที่ได้รับความนิยมมากที่สุด\nลายดอกยางแบบทิศทางเดียว ช่วยเพิ่มประสิทธิภาพในการใช้งานอย่างเต็มที่\nยางที่มีแรงต้านการหมุนต่ำ เพื่อเพิ่มประสิทธิภาพการประหยัดน้ำมันสูงสุด\nใช้ประกอบกับรถสกูตเตอร์ Yamaha Fiore\nได้รับการยอมรับให้เป็นยางติดรถจักรยานยนต์ Honda Zoomer-X*",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/MB81-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "90/90-12 54J",
+                        "pattern_type": "MB81 T/L",
+                        "diameter": "467",
+                        "width": "87",
+                        "measurement_rim": "MT 2.15",
+                        "standard_rim": "MT 2.15"
+                    }
+                ]
+            },
+            {
+                "name": "MB82",
+                "description": "ยางสกูตเตอร์รุ่นที่ได้รับความนิยมมากที่สุด\nลายดอกยางแบบทิศทางเดียว ช่วยเพิ่มประสิทธิภาพในการใช้งานอย่างเต็มที่\nยางที่มีแรงต้านการหมุนต่ำ เพื่อเพิ่มประสิทธิภาพการประหยัดน้ำมันสูงสุด\nใช้ประกอบกับรถสกูตเตอร์ Yamaha Fiore\nได้รับการยอมรับให้เป็นยางติดรถจักรยานยนต์ Honda Zoomer-X*",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/MB82-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "90/90-12 54J",
+                        "pattern_type": "MB82 T/L",
+                        "diameter": "468",
+                        "width": "87",
+                        "measurement_rim": "MT 2.15",
+                        "standard_rim": "MT 2.15"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tire_type": "ON-ROAD-Automatic",
+        "tire_link": "https://www.irctirethailand.com/product-category/%e0%b8%a2%e0%b8%b2%e0%b8%87%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b9%83%e0%b8%99%e0%b8%96%e0%b8%99%e0%b8%99%e0%b8%97%e0%b8%b1%e0%b9%88%e0%b8%a7%e0%b9%84%e0%b8%9b/",
+        "tires": [
+            {
+                "name": "PERSONA NR50",
+                "description": "ยึดเกาะถนนเป็นเยี่ยม\nระยะเบรกสั้นกว่าแบรนด์อื่นๆถึง 10%\nช่วยลดอาการลื่นไถล ในทุกสภาพถนน\nสามารถขับเคลื่อนต่อไปได้ แม้ในความดันลมที่ต่ำ\nช่วยลดความเสี่ยงจากการสูญเสียการควบคุมกระทันหัน\nเพิ่มความแข็งแรงและทนทาน ยืดอายุการใช้งานให้นานขึ้น",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NR50-570x450.jpg",
+                "sizes": []
+            },
+            {
+                "name": "NF2",
+                "description": "ลวดลายคลาสสิคสำหรับยางหน้า\nราคาประหยัด เหมาะกับรถจักรยานยนต์ทุกประเภท\nควบคุมการขับขี่ได้ง่าย ในทุกสภาพถนน\nใช้ได้กับรถจักรยานยนต์ทุกประเภท",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NF2-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "2.50-18 4PR (40L)",
+                        "pattern_type": "NF2 W/T",
+                        "diameter": "598",
+                        "width": "65",
+                        "measurement_rim": "1.40",
+                        "standard_rim": "1.60"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "2.75-18 4PR (42P)",
+                        "pattern_type": "NF2 W/T",
+                        "diameter": "617",
+                        "width": "71",
+                        "measurement_rim": "1.85",
+                        "standard_rim": "1.85"
+                    }
+                ]
+            },
+            {
+                "name": "NF26",
+                "description": "ลวดลายคลาสสิคสำหรับยางหน้า\nราคาประหยัด เหมาะกับรถจักรยานยนต์ทุกประเภท\nควบคุมการขับขี่ได้ง่าย ในทุกสภาพถนน\nใช้ได้กับรถจักรยานยนต์ทุกประเภท",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NF26-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "2.25-17 4PR (33L)",
+                        "pattern_type": "NF26 W/T",
+                        "diameter": "556",
+                        "width": "59",
+                        "measurement_rim": "1.40",
+                        "standard_rim": "1.40"
+                    }
+                ]
+            },
+            {
+                "name": "NF3",
+                "description": "ลวดลายคลาสสิคสำหรับยางหน้า\nราคาประหยัด เหมาะกับรถจักรยานยนต์ทุกประเภท\nควบคุมการขับขี่ได้ง่าย ในทุกสภาพถนน\nใช้ได้กับรถจักรยานยนต์ทุกประเภท",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NF3-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "2.25-17 4PR (33L)",
+                        "pattern_type": "NF3 W/T",
+                        "diameter": "557",
+                        "width": "60",
+                        "measurement_rim": "1.40",
+                        "standard_rim": "1.40"
+                    }
+                ]
+            },
+            {
+                "name": "NF55",
+                "description": "ลายดอกยางมีลักษณะผสมผสานลายบล็อก และลายเส้นตรงเข้าด้วยกันระหว่างกลางเพื่อให้ง่ายต่อการควบคุมการขับขี่\nขับขี่สมดุลย์และง่ายต่อการควบคุมการขับขี่\nเป็นรุ่นที่นิยมกันอย่างแพร่หลาย และใช้ประกอบกับรถจักรยานยนต์ Honda Wave 100, Wave S125, Dream Excess และ Dream 125",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NF55-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "60/100-17 M/C 33P",
+                        "pattern_type": "NF55 W/T",
+                        "diameter": "554",
+                        "width": "58",
+                        "measurement_rim": "1.40",
+                        "standard_rim": "1.40"
+                    }
+                ]
+            },
+            {
+                "name": "NF59",
+                "description": "ขับขี่สมดุลย์ทั้งยางหน้าและยางหลัง ใช้สำหรับรถออโตเมติก\nลายดอกยางเป็นลักษณะ Uni-Direction เกาะถนนและมีสมรรถนะดีเยี่ยม\nใช้ประกอบกับรถจักรยานยนต์ Yamaha Nouvo (16″) และ Mio (14″)\nใช้ประกอบกับรถจักรยานยนต์ Suzuki Let สำหรับยาง 70/90-14 NF59/D และ 80/90-14 NR76A/D",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NF59-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "70/90-14 M/C 34P",
+                        "pattern_type": "NF59/E W/T",
+                        "diameter": "482",
+                        "width": "68",
+                        "measurement_rim": "1.60",
+                        "standard_rim": "1.60"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "70/90-14 M/C 34P",
+                        "pattern_type": "NF59/D W/T",
+                        "diameter": "482",
+                        "width": "68",
+                        "measurement_rim": "1.60",
+                        "standard_rim": "1.60"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "70/90-16 M/C 36P",
+                        "pattern_type": "NF59 W/T",
+                        "diameter": "536",
+                        "width": "70",
+                        "measurement_rim": "1.60",
+                        "standard_rim": "1.60"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "70/90-16 M/C 36P",
+                        "pattern_type": "NF59D T/L",
+                        "diameter": "537",
+                        "width": "67",
+                        "measurement_rim": "MT 1.60",
+                        "standard_rim": "MT 1.60"
+                    }
+                ]
+            },
+            {
+                "name": "NF6",
+                "description": "ลวดลายคลาสสิคสำหรับยางหน้า\nราคาประหยัด เหมาะกับรถจักรยานยนต์ทุกประเภท\nควบคุมการขับขี่ได้ง่าย ในทุกสภาพถนน\nใช้ได้กับรถจักรยานยนต์ทุกประเภท",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NF6-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "2.50-17 4PR (38L)",
+                        "pattern_type": "NF6 W/T",
+                        "diameter": "564",
+                        "width": "65",
+                        "measurement_rim": "1.40",
+                        "standard_rim": "1.40"
+                    }
+                ]
+            },
+            {
+                "name": "NF63A",
+                "description": "ลายดอกยางหน้าถูกออกแบบเป็นเส้นตรงขนานกัน 3 เส้น (Trie Straight Line) ออกแบบมาเพื่อการควบคุมการขับขี่ได้ง่ายคล่องตัว\nยางหลังถูกออกแบบโดยการผสมผสานเทคโนโลยีลายดอกยางแบบบล็อค กับแบบเส้นเข้าด้วยกัน เพื่อใช้ในการขับขี่ได้อย่างคล่องตัวในทุกสภาพถนน\nโครงสร้างแบบใหม่ น้ำหนักเบา (Light Weight Construction) และแก้มยาง เป็นแบบเรียบ (Flat Side Wall) มีความสมดุลย์ทำให้สมรรถนะการขับขี่ดีเยี่ยม\nใช้ Solid Artwork เด่นชัดในทุกสภาวะบุคลิกใหม่จาก IRC\nใช้ประกอบกับรถจักรยานยนต์ Yamaha spark 135 และ X1R*\nใช้ประกอบกับรถจักรยานยนต์ Honda Wave 125S",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/02/NF63A-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "60/100-17 M/C 33P",
+                        "pattern_type": "NF63A W/T",
+                        "diameter": "552",
+                        "width": "59",
+                        "measurement_rim": "1.40",
+                        "standard_rim": "1.40"
+                    }
+                ]
+            },
+            {
+                "name": "NF63B",
+                "description": "ลายดอกยางหน้าถูกออกแบบเป็นเส้นตรงขนานกัน 3 เส้น (Trie Straight Line) ออกแบบมาเพื่อการควบคุมการขับขี่ได้ง่ายคล่องตัว\nยางหลังถูกออกแบบโดยการผสมผสานเทคโนโลยีลายดอกยางแบบบล็อค กับแบบเส้นเข้าด้วยกัน เพื่อใช้ในการขับขี่ได้อย่างคล่องตัวในทุกสภาพถนน\nโครงสร้างแบบใหม่ น้ำหนักเบา (Light Weight Construction) และแก้มยาง เป็นแบบเรียบ (Flat Side Wall) มีความสมดุลย์ทำให้สมรรถนะการขับขี่ดีเยี่ยม\nใช้ Solid Artwork เด่นชัดในทุกสภาวะบุคลิกใหม่จาก IRC\nใช้ประกอบกับรถจักรยานยนต์ Yamaha spark 135 และ X1R*\nใช้ประกอบกับรถจักรยานยนต์ Honda Wave 125S",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NF63B-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "60/100-17 M/C 33P",
+                        "pattern_type": "NF63B W/T",
+                        "diameter": "552",
+                        "width": "59",
+                        "measurement_rim": "1.20",
+                        "standard_rim": "1.40"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "70/90-17 M/C 38P",
+                        "pattern_type": "NF63B/Z W/T",
+                        "diameter": "559",
+                        "width": "68",
+                        "measurement_rim": "1.40",
+                        "standard_rim": "1.60"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "70/90-17 M/C 38P",
+                        "pattern_type": "NF63B/Y T/L",
+                        "diameter": "561",
+                        "width": "72",
+                        "measurement_rim": "MT 1.8",
+                        "standard_rim": "1.60"
+                    }
+                ]
+            },
+            {
+                "name": "NF67",
+                "description": "ขับขี่สมดุลย์ทั้งยางหน้าและยางหลัง ใช้สำหรับรถจักรยานยนต์ออร์โตเมติก\nลายดอกยางถูกออกแบบเป็นไปในทิศทางเดียว ทำให้มีสมรรถนะในการเกาะถนนดีเยี่ยม\nได้รับการยอมรับให้เป็นยางติดรถจักรยานยนต์ Yamaha TTX",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NF67-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "70/90-14 M/C 34P",
+                        "pattern_type": "NF67 W/T",
+                        "diameter": "482",
+                        "width": "67",
+                        "measurement_rim": "1.40",
+                        "standard_rim": "1.60"
+                    }
+                ]
+            },
+            {
+                "name": "NR1",
+                "description": "ลวดลายคลาสสิคสำหรับยางหลัง\nราคาเหมาะสม เหมาะกับรถจักรยานยนต์ทุกประเภท\nโครงสร้างยางแข็งแรง ควบคุมการขับขี่ได้ง่ายทุกสภาพถนน\nใช้ได้กับรถจักรยานยนต์ทุกประเภท",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NR1-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "3.00-16 4PR (43P)",
+                        "pattern_type": "NR1 W/T",
+                        "diameter": "579",
+                        "width": "78",
+                        "measurement_rim": "1.85",
+                        "standard_rim": "1.85"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "3.00-17 6PR (50P)",
+                        "pattern_type": "NR1 W/T",
+                        "diameter": "602",
+                        "width": "79",
+                        "measurement_rim": "1.85",
+                        "standard_rim": "1.85"
+                    }
+                ]
+            },
+            {
+                "name": "NR2",
+                "description": "ลวดลายคลาสสิคสำหรับยางหลัง\nราคาเหมาะสม เหมาะกับรถจักรยานยนต์ทุกประเภท\nโครงสร้างยางแข็งแรง ควบคุมการขับขี่ได้ง่ายทุกสภาพถนน\nใช้ได้กับรถจักรยานยนต์ทุกประเภท",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NR2-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "2.75-17 4PR (41P)",
+                        "pattern_type": "NR2 W/T",
+                        "diameter": "589",
+                        "width": "72",
+                        "measurement_rim": "1.85",
+                        "standard_rim": "1.85"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "2.50-18 6PR (45L)",
+                        "pattern_type": "NR2 W/T",
+                        "diameter": "603",
+                        "width": "67",
+                        "measurement_rim": "1.60",
+                        "standard_rim": "1.60"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "3.50-18 4PR (56P)",
+                        "pattern_type": "NR2 W/T",
+                        "diameter": "648",
+                        "width": "96",
+                        "measurement_rim": "2.15",
+                        "standard_rim": "2.15"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tire_type": "ON-ROAD-SPORT",
+        "tire_link": "https://www.irctirethailand.com/product-category/%e0%b8%a2%e0%b8%b2%e0%b8%87%e0%b8%aa%e0%b8%9b%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%95/",
+        "tires": [
+            {
+                "name": "RMC810",
+                "description": "ยางสปอร์ต ทัวร์ริ่ง สายพันธุ์ญี่ปุ่น\nโครงสร้างยางแบบ Radial เพิ่มความแข็งแรงของโครงสร้าง\nคุ้มค่าทนทานเหมาะสำหรับผู้ใช้งานสไตล์ทัวร์ริ่ง",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/03/RMC810-570x450.png",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "110/70R17 M/C 54H",
+                        "pattern_type": "RMC810F",
+                        "diameter": "586",
+                        "width": "110",
+                        "measurement_rim": "MT 2.75",
+                        "standard_rim": "MT 3.00"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "120/60ZR17 M/C 55W",
+                        "pattern_type": "RMC810F",
+                        "diameter": "581",
+                        "width": "122",
+                        "measurement_rim": "MT 3.50",
+                        "standard_rim": "MT 3.50"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "120/70ZR17 M/C 58W",
+                        "pattern_type": "RMC810F",
+                        "diameter": "599",
+                        "width": "123",
+                        "measurement_rim": "MT 3.50",
+                        "standard_rim": "MT 3.50"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "140/70R17 M/C 66H",
+                        "pattern_type": "RMC810R",
+                        "diameter": "628",
+                        "width": "145",
+                        "measurement_rim": "MT 3.50",
+                        "standard_rim": "MT 4.00"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "150/60R17 M/C 66H",
+                        "pattern_type": "RMC810R",
+                        "diameter": "613",
+                        "width": "147",
+                        "measurement_rim": "MT 4.00",
+                        "standard_rim": "MT 4.00"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "160/60ZR17 M/C 69W",
+                        "pattern_type": "RMC810R",
+                        "diameter": "633",
+                        "width": "169",
+                        "measurement_rim": "MT 4.50",
+                        "standard_rim": "MT 4.50"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "180/55ZR17 M/C 73W",
+                        "pattern_type": "RMC810R",
+                        "diameter": "631",
+                        "width": "182",
+                        "measurement_rim": "MT 5.50",
+                        "standard_rim": "MT 5.50"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "190/50ZR17 M/C 73W",
+                        "pattern_type": "RMC810R",
+                        "diameter": "628",
+                        "width": "192",
+                        "measurement_rim": "MT 6.00",
+                        "standard_rim": "MT 6.00"
+                    }
+                ]
+            },
+            {
+                "name": "RMC830",
+                "description": "ยางสปอร์ต ทัวร์ริ่ง สายพันธุ์ญี่ปุ่น\nโครงสร้างยางแบบ Radial เพิ่มความแข็งแรงของโครงสร้าง\nคุ้มค่าทนทานเหมาะสำหรับผู้ใช้งานสไตล์ทัวร์ริ่ง",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2022/03/RMC830-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "110/70R17 M/C 54H",
+                        "pattern_type": "RMC830F",
+                        "diameter": "586",
+                        "width": "110",
+                        "measurement_rim": "MT 2.75",
+                        "standard_rim": "MT 3.00"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "140/70R17 M/C 66H",
+                        "pattern_type": "RMC830R",
+                        "diameter": "628",
+                        "width": "145",
+                        "measurement_rim": "MT 3.50",
+                        "standard_rim": "MT 4.00"
+                    }
+                ]
+            },
+            {
+                "name": "S99",
+                "description": " IZ-S Super Sport S99 ถูกออกแบบเพื่อเอาใจกลุ่ม Sport Bike ขนาดกลางตั้งแต่ 100 – 300 cc.\nเน้นการใช้งานตั้งแต่การขับขี่ทั่วไป , Sport Touring ไปจนถึงการขับขี่ด้วยความเร็วสูง\nโดยผสมผสานสุดยอดการออกแบบ ไม่ว่าจะเป็นการยึดเกาะยอดเยี่ยม การตอบสนองต่อการควบคุมที่ดีเยี่ยม",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/S99-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "70/90-17 M/C 38S",
+                        "pattern_type": "S99 T/L",
+                        "diameter": "559",
+                        "width": "69",
+                        "measurement_rim": "MT 1.60",
+                        "standard_rim": "MT 1.60"
+                    },
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "80/90-17 M/C 44S",
+                        "pattern_type": "S99 T/L",
+                        "diameter": "580",
+                        "width": "79",
+                        "measurement_rim": "MT 1.85",
+                        "standard_rim": "MT 1.85"
+                    },
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "90/80-17 M/C 46S",
+                        "pattern_type": "S99 T/L",
+                        "diameter": "576",
+                        "width": "90",
+                        "measurement_rim": "MT 2.15",
+                        "standard_rim": "MT 2.15"
+                    },
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "100/80-17 M/C 52S",
+                        "pattern_type": "S99 T/L",
+                        "diameter": "594",
+                        "width": "101",
+                        "measurement_rim": "MT 2.50",
+                        "standard_rim": "MT 2.50"
+                    },
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "110/70-17 M/C 54S",
+                        "pattern_type": "S99 T/L",
+                        "diameter": "587",
+                        "width": "110",
+                        "measurement_rim": "MT 3.00",
+                        "standard_rim": "MT 3.00"
+                    },
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "120/70-17 M/C 58S",
+                        "pattern_type": "S99 T/L",
+                        "diameter": "600",
+                        "width": "122",
+                        "measurement_rim": "MT 3.50",
+                        "standard_rim": "MT 3.50"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "130/70-17 M/C 62S •",
+                        "pattern_type": "S99 T/L",
+                        "diameter": "614",
+                        "width": "130",
+                        "measurement_rim": "MT 3.50",
+                        "standard_rim": "MT 3.50"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "140/70-17 M/C 66S",
+                        "pattern_type": "S99 T/L",
+                        "diameter": "628",
+                        "width": "140",
+                        "measurement_rim": "MT 4.00",
+                        "standard_rim": "MT 4.00"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "150/60-17 M/C 66S",
+                        "pattern_type": "S99 T/L",
+                        "diameter": "610",
+                        "width": "150",
+                        "measurement_rim": "MT 4.25",
+                        "standard_rim": "MT 4.25"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "150/70-17 M/C 69S",
+                        "pattern_type": "S99 T/L",
+                        "diameter": "642",
+                        "width": "151",
+                        "measurement_rim": "MT 4.25",
+                        "standard_rim": "MT 4.25"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "160/60-17 M/C 69S",
+                        "pattern_type": "S99 T/L",
+                        "diameter": "642",
+                        "width": "151",
+                        "measurement_rim": "MT 4.50",
+                        "standard_rim": "MT 4.50"
+                    }
+                ]
+            },
+            {
+                "name": "NF42",
+                "description": "ลายดอกยางแบบกว้าง เพื่อการเกาะถนนที่ดีเยี่ยม\nเป็นยางที่ไม่ใช้ยางในรุ่นแรก ที่พัฒนาสำหรับโรงงานประกอบ\nมีสมรรถนะสูง ด้วยยางคอมเปาว์ดชนิดพิเศษ\nได้รับการรับรองจากมาตรฐานยุโรป ทั้งยางหน้า และยางหลัง\nใช้ประกอบกับรถจักรยานยนต์รุ่น Yamaha TZM",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NF42-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "90/80-17 M/C 46S",
+                        "pattern_type": "NF42 T/L",
+                        "diameter": "580",
+                        "width": "89",
+                        "measurement_rim": "MT 2.15",
+                        "standard_rim": "MT 2.15"
+                    }
+                ]
+            },
+            {
+                "name": "NF45",
+                "description": "ลายดอกยางสวยสะดุดตา และมีโครงสร้างที่แข็งแรง\nเหมาะสำหรับการใช้งานทุกด้าน ทั้งความทนทาน การควบคุมการขับขี่\nและการเบรกที่ดีเยี่ยม\nมีสมรรถนะสูง ด้วยยางคอมเปาว์ด ชนิดพิเศษ\nได้รับการรับรองมาตรฐาน DOT จากประเทศสหรัฐอเมริกา\nใช้ประกอบกับรถจักรยานยนต์ Kawazaki ZX150, KR และ Serpico",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NF45-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "90/90-17 M/C 49S",
+                        "pattern_type": "NF45 W/T",
+                        "diameter": "597",
+                        "width": "91",
+                        "measurement_rim": "2.15",
+                        "standard_rim": "2.15"
+                    }
+                ]
+            },
+            {
+                "name": "NF46",
+                "description": "ลายดอกยางสวยสะดุดตาในทิศทางเดียวพร้อมกับโครงสร้างยางที่แข็งแรง\nได้รับการรับรองมาตรฐาน DOT จากประเทศสหรัฐอเมริกา\nได้รับการยอมรับให้ประกอบกับรถจักรยานยนต์รุ่น Honda NSR Pro Arm\nไม่ต้องใช้ยางใน ทั้งยางหน้า และยางหลัง\nเพื่อความสมดุลย์ที่ดีในการขับขี่ ควรใช้ทั้งยางหน้า และยางหลังด้วยกัน",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NF46-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "90/80-17 M/C 46S",
+                        "pattern_type": "NF46 T/L",
+                        "diameter": "582",
+                        "width": "86",
+                        "measurement_rim": "MT 2.15",
+                        "standard_rim": "MT 2.15"
+                    }
+                ]
+            },
+            {
+                "name": "NR28",
+                "description": "ลายดอกยางสวยสะดุดตา และมีโครงสร้างที่แข็งแรง\nเหมาะสำหรับการใช้งานทุกด้าน ทั้งความทนทาน การควบคุมการขับขี่\nและการเบรกที่ดีเยี่ยม\nมีสมรรถนะสูง ด้วยยางคอมเปาว์ด ชนิดพิเศษ\nได้รับการรับรองมาตรฐาน DOT จากประเทศสหรัฐอเมริกา\nใช้ประกอบกับรถจักรยานยนต์ Kawazaki ZX150, KR และ Serpico",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NR28-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "90/90-18 M/C 51P",
+                        "pattern_type": "NR28 W/T",
+                        "diameter": "621",
+                        "width": "92",
+                        "measurement_rim": "MT 2.15",
+                        "standard_rim": "MT 2.15"
+                    },
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "90/90-18 M/C 51S",
+                        "pattern_type": "NR28 W/T",
+                        "diameter": "621",
+                        "width": "92",
+                        "measurement_rim": "MT 2.15",
+                        "standard_rim": "MT 2.15"
+                    }
+                ]
+            },
+            {
+                "name": "NR48",
+                "description": "ลายดอกยางแบบกว้าง เพื่อการเกาะถนนที่ดีเยี่ยม\nเป็นยางที่ไม่ใช้ยางในรุ่นแรก ที่พัฒนาสำหรับโรงงานประกอบ\nมีสมรรถนะสูง ด้วยยางคอมเปาว์ดชนิดพิเศษ\nได้รับการรับรองจากมาตรฐานยุโรป ทั้งยางหน้า และยางหลัง\nใช้ประกอบกับรถจักรยานยนต์รุ่น Yamaha TZM",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NR48-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "110/80-17 M/C 57S",
+                        "pattern_type": "NR48 T/L",
+                        "diameter": "613",
+                        "width": "111",
+                        "measurement_rim": "MT 2.50",
+                        "standard_rim": "MT 2.50"
+                    }
+                ]
+            },
+            {
+                "name": "NR55",
+                "description": "ลายดอกยางสวยสะดุดตา และมีโครงสร้างที่แข็งแรง\nเหมาะสำหรับการใช้งานทุกด้าน ทั้งความทนทาน การควบคุมการขับขี่\nและการเบรกที่ดีเยี่ยม\nมีสมรรถนะสูง ด้วยยางคอมเปาว์ด ชนิดพิเศษ\nได้รับการรับรองมาตรฐาน DOT จากประเทศสหรัฐอเมริกา\nใช้ประกอบกับรถจักรยานยนต์ Kawazaki ZX150, KR และ Serpico",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NR55-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "100/90-18 M/C 56S",
+                        "pattern_type": "NR55 W/T",
+                        "diameter": "637",
+                        "width": "103",
+                        "measurement_rim": "2.50",
+                        "standard_rim": "2.50"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "100/90-18 M/C 56S",
+                        "pattern_type": "NR55 T/L",
+                        "diameter": "638",
+                        "width": "103",
+                        "measurement_rim": "MT 2.50",
+                        "standard_rim": "MT 2.50"
+                    }
+                ]
+            },
+            {
+                "name": "NR57",
+                "description": "ลายดอกยางสวยสะดุดตาในทิศทางเดียวพร้อมกับโครงสร้างยางที่แข็งแรง\nได้รับการรับรองมาตรฐาน DOT จากประเทศสหรัฐอเมริกา\nได้รับการยอมรับให้ประกอบกับรถจักรยานยนต์รุ่น Honda NSR Pro Arm\nไม่ต้องใช้ยางใน ทั้งยางหน้า และยางหลัง\nเพื่อความสมดุลย์ที่ดีในการขับขี่ ควรใช้ทั้งยางหน้า และยางหลังด้วยกัน",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NR57-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "120/80-17 M/C 61S",
+                        "pattern_type": "NR57 T/L",
+                        "diameter": "626",
+                        "width": "119",
+                        "measurement_rim": "MT 2.75",
+                        "standard_rim": "MT 2.75"
+                    }
+                ]
+            },
+            {
+                "name": "NR64",
+                "description": "ลายดอกยางสวยสะดุดตา และมีโครงสร้างที่แข็งแรง\nเหมาะสำหรับการใช้งานทุกด้าน ทั้งความทนทาน การควบคุมการขับขี่\nและการเบรกที่ดีเยี่ยม\nมีสมรรถนะสูง ด้วยยางคอมเปาว์ด ชนิดพิเศษ\nได้รับการรับรองมาตรฐาน DOT จากประเทศสหรัฐอเมริกา\nใช้ประกอบกับรถจักรยานยนต์ Kawazaki ZX150, KR และ Serpico",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NR64-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "110/80-17 M/C 57S",
+                        "pattern_type": "NR64 W/T",
+                        "diameter": "611",
+                        "width": "108",
+                        "measurement_rim": "2.50",
+                        "standard_rim": "2.50"
+                    }
+                ]
+            },
+            {
+                "name": "NR77",
+                "description": "ลายดอกยางรูปตัว W ช่วยให้การรีดน้ำได้เร็ว เพิ่มสมรรถนะการเกาะถนนเปียกได้อย่างยอดเยี่ยม\nการออกแบบด้านข้างยางแบบ flat side wall เพื่อเพิ่มความแข็งแรงในขณะใช้งาน\nยางคอมเปาว์ดชนิดพิเศษ เหมาะสำหรับการใช้งานที่ความเร็วสูง\nการออกแบบตัวหนังสือ แบบ rollet lettering design\nใช้ประกอบกับรถจักรยานยนต์ Suzuki Step 125 cc สำหรับยาง 70/90-14 และ 80/90-14 NR77T",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/02/NR77-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "* หน้า",
+                        "size": "50/100-17 M/C 23S",
+                        "pattern_type": "NR77 W/T",
+                        "diameter": "535",
+                        "width": "51",
+                        "measurement_rim": "1.20",
+                        "standard_rim": "1.20"
+                    },
+                    {
+                        "wheel_position": "* หน้า หลัง",
+                        "size": "60/95-17 M/C 32S",
+                        "pattern_type": "NR73 W/T",
+                        "diameter": "544",
+                        "width": "62",
+                        "measurement_rim": "1.40",
+                        "standard_rim": "1.40"
+                    },
+                    {
+                        "wheel_position": "* หน้า หลัง",
+                        "size": "70/90-17 M/C 38S",
+                        "pattern_type": "NR77 W/T, T/L",
+                        "diameter": "564",
+                        "width": "7",
+                        "measurement_rim": "MT 1.60",
+                        "standard_rim": "MT 1.60"
+                    },
+                    {
+                        "wheel_position": "* หน้า หลัง",
+                        "size": "80/90-17 M/C 44S",
+                        "pattern_type": "NR77 W/T, T/L",
+                        "diameter": "580",
+                        "width": "83",
+                        "measurement_rim": "MT 1.85",
+                        "standard_rim": "MT 1.85"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "70/90-14 M/C 34P",
+                        "pattern_type": "NR77 W/T",
+                        "diameter": "482",
+                        "width": "68",
+                        "measurement_rim": "1.40",
+                        "standard_rim": "1.60"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "80/90-14 M/C 40P",
+                        "pattern_type": "NR77T W/T",
+                        "diameter": "500",
+                        "width": "79",
+                        "measurement_rim": "1.60",
+                        "standard_rim": "1.85"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tire_type": "RACING",
+        "tire_link": "https://www.irctirethailand.com/product-category/%e0%b8%a2%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%81%e0%b8%82%e0%b9%88%e0%b8%87%e0%b8%82%e0%b8%b1%e0%b8%99/",
+        "tires": [
+            {
+                "name": "IZ-003",
+                "description": "การพัฒนายางแข่งชั้นสูงเพื่อตอบสนองความต้องการของนักแข่งโดยเฉพาะ\nมีส่วนประกอบพิเศษในการยึดเกาะถนนเพื่อเพิ่มสมรรถนะในการแข่งขันที่ดีเยี่ยม\nเสริมความพิเศษด้วยวัสดุ “Aramid Fiber” เพื่อเพิ่มความมั่นใจในสมรรถนะการใช้งานที่ดีเยี่ยม",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/IZ-003-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "70/90-17 M/C 38S",
+                        "pattern_type": "iZ-003/RC T/L",
+                        "diameter": "559",
+                        "width": "69",
+                        "measurement_rim": "1.60",
+                        "standard_rim": "1.60"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "80/90-17 M/C 44S",
+                        "pattern_type": "iZ-003/RC W/T",
+                        "diameter": "578",
+                        "width": "80",
+                        "measurement_rim": "1.85",
+                        "standard_rim": "1.85"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "110/70-17 M/C 54S",
+                        "pattern_type": "iZ-003/RC T/L",
+                        "diameter": "584",
+                        "width": "106",
+                        "measurement_rim": "MT 3.00",
+                        "standard_rim": "MT 3.00"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "140/70-17 M/C 66S",
+                        "pattern_type": "iZ-003/RC T/L",
+                        "diameter": "626",
+                        "width": "140",
+                        "measurement_rim": "MT 4.00",
+                        "standard_rim": "MT 4.00"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "90/80-17 M/C 46S",
+                        "pattern_type": "iZ-003/RC T/L",
+                        "diameter": "580",
+                        "width": "90",
+                        "measurement_rim": "MT 2.15",
+                        "standard_rim": "MT 2.15"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "100/90-12 59L",
+                        "pattern_type": "iZ-003/RC T/L",
+                        "diameter": "485",
+                        "width": "103",
+                        "measurement_rim": "MT 2.50",
+                        "standard_rim": "MT 2.50"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "120/80-12 65L",
+                        "pattern_type": "iZ-003/RC T/L",
+                        "diameter": "501",
+                        "width": "121",
+                        "measurement_rim": "MT 3.00",
+                        "standard_rim": "MT 2.75"
+                    }
+                ]
+            },
+            {
+                "name": "NF81/DG",
+                "description": "ออกแบบสำหรับแข่งขันรถจักรยานยนต์ทางตรงโดยเฉพาะ (80 ซีรี่) แก้มเตี้ยพิเศษเพิ่มคุณสมบัติในการเกาะถนนและออกตัวอย่างมั่นใจ\nโครงสร้างพิเศษ เพิ่มการทรงตัวที่ดีเมื่อใช้ความเร็วสูง\nลายดอกยางใหม่ เพิ่มความสมดุลในการขับขี่ และทรงตัวได้ง่าย\nมากกว่า 90% นิยมใช้กันแพร่หลายในการแข่งขัน Drag Racing",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NF81-DG-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "45/90-17 M/C 19S",
+                        "pattern_type": "NF81/DG W/T",
+                        "diameter": "516",
+                        "width": "45",
+                        "measurement_rim": "1.10",
+                        "standard_rim": "1.10"
+                    }
+                ]
+            },
+            {
+                "name": "NR73S",
+                "description": "คุณสมบัติยอดเยี่ยมสำหรับการแข่งขัน Drag Racing\nเป็นยางอันดับหนึ่งในสนามแข่งขันจักรยานยนต์ขนาด 100 ซีซี และ 125 ซีซี\nในปี 2545 ถึง 2550\nมีความสมดุลย์ระหว่างยางหน้า และยางหลัง ทำให้สามารถทรงตัวได้ดี",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NR73-DG-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "45/90-17 M/C 19S",
+                        "pattern_type": "NR73/DG W/T",
+                        "diameter": "515",
+                        "width": "44",
+                        "measurement_rim": "1.20",
+                        "standard_rim": "1.10"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "50/100-17 M/C 23S",
+                        "pattern_type": "NR73/DG W/T",
+                        "diameter": "535",
+                        "width": "54",
+                        "measurement_rim": "1.20",
+                        "standard_rim": "1.20"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "60/90-17 M/C 30S",
+                        "pattern_type": "NR73/DG W/T",
+                        "diameter": "542",
+                        "width": "59",
+                        "measurement_rim": "1.40",
+                        "standard_rim": "1.40"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "70/90-17 M/C 38S",
+                        "pattern_type": "NR73/DG W/T",
+                        "diameter": "555",
+                        "width": "66",
+                        "measurement_rim": "1.60",
+                        "standard_rim": "1.60"
+                    }
+                ]
+            },
+            {
+                "name": "NR73S/DG",
+                "description": "คุณสมบัติยอดเยี่ยมสำหรับการแข่งขัน Drag Racing\nเป็นยางอันดับหนึ่งในสนามแข่งขันจักรยานยนต์ขนาด 100 ซีซี และ 125 ซีซี\nในปี 2545 ถึง 2550\nมีความสมดุลย์ระหว่างยางหน้า และยางหลัง ทำให้สามารถทรงตัวได้ดี",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NR73S-DG-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "45/90-17 M/C 19S",
+                        "pattern_type": "NR73/DG W/T",
+                        "diameter": "515",
+                        "width": "44",
+                        "measurement_rim": "1.20",
+                        "standard_rim": "1.10"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "50/100-17 M/C 23S",
+                        "pattern_type": "NR73/DG W/T",
+                        "diameter": "535",
+                        "width": "54",
+                        "measurement_rim": "1.20",
+                        "standard_rim": "1.20"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "60/90-17 M/C 30S",
+                        "pattern_type": "NR73/DG W/T",
+                        "diameter": "542",
+                        "width": "59",
+                        "measurement_rim": "1.40",
+                        "standard_rim": "1.40"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "70/90-17 M/C 38S",
+                        "pattern_type": "NR73/DG W/T",
+                        "diameter": "555",
+                        "width": "66",
+                        "measurement_rim": "1.60",
+                        "standard_rim": "1.60"
+                    }
+                ]
+            },
+            {
+                "name": "NR81/DG",
+                "description": "ออกแบบสำหรับแข่งขันรถจักรยานยนต์ทางตรงโดยเฉพาะ (80 ซีรี่) แก้มเตี้ยพิเศษเพิ่มคุณสมบัติในการเกาะถนนและออกตัวอย่างมั่นใจ\nโครงสร้างพิเศษ เพิ่มการทรงตัวที่ดีเมื่อใช้ความเร็วสูง\nลายดอกยางใหม่ เพิ่มความสมดุลในการขับขี่ และทรงตัวได้ง่าย\nมากกว่า 90% นิยมใช้กันแพร่หลายในการแข่งขัน Drag Racing",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NR81-DG-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "50/100-17 M/C 23S",
+                        "pattern_type": "NR81/DG W/T",
+                        "diameter": "535",
+                        "width": "53",
+                        "measurement_rim": "1.20",
+                        "standard_rim": "1.20"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "60/80-17 M/C 27S",
+                        "pattern_type": "NR81/DG W/T",
+                        "diameter": "531",
+                        "width": "60",
+                        "measurement_rim": "1.40",
+                        "standard_rim": "1.40"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "70/80-17 M/C 35S",
+                        "pattern_type": "NR81/DG W/T",
+                        "diameter": "550",
+                        "width": "68",
+                        "measurement_rim": "1.60",
+                        "standard_rim": "1.60"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tire_type": "ON-OFF-ROAD",
+        "tire_link": "https://www.irctirethailand.com/product-category/%e0%b8%a2%e0%b8%b2%e0%b8%87%e0%b8%81%e0%b8%b6%e0%b9%88%e0%b8%87%e0%b8%a7%e0%b8%b4%e0%b8%9a%e0%b8%b2%e0%b8%81/",
+        "tires": [
+            {
+                "name": "GP-610",
+                "description": "ลายดอกยางเป็นบล็อค ช่วยให้การขับขี่ในป่ามีความสนุกมากยิ่งขึ้น",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2023/08/GP-610R-SIDE-Hires-ok-scaled-e1691979990815-570x555.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "2.75-21 45P",
+                        "pattern_type": "GP-610F W/T",
+                        "diameter": "690",
+                        "width": "79",
+                        "measurement_rim": "1.60",
+                        "standard_rim": "1.85"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "3.00-21 51P",
+                        "pattern_type": "GP-610F W/T",
+                        "diameter": "703",
+                        "width": "89",
+                        "measurement_rim": "1.60",
+                        "standard_rim": "1.85"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "80/100-21 M/C 51P",
+                        "pattern_type": "GP-610F W/T",
+                        "diameter": "696",
+                        "width": "84",
+                        "measurement_rim": "1.60",
+                        "standard_rim": "1.85"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "120/90-16 M/C 63P",
+                        "pattern_type": "GP-610R W/T",
+                        "diameter": "632",
+                        "width": "124",
+                        "measurement_rim": "2.75",
+                        "standard_rim": "2.75"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "4.10-18 59P",
+                        "pattern_type": "GP-610R W/T",
+                        "diameter": "641",
+                        "width": "109",
+                        "measurement_rim": "2.50",
+                        "standard_rim": "2.50"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "4.60-18 63P",
+                        "pattern_type": "GP-610R W/T",
+                        "diameter": "662",
+                        "width": "123",
+                        "measurement_rim": "2.75",
+                        "standard_rim": "2.75"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "120/80-18 M/C 62P",
+                        "pattern_type": "GP-610R W/T",
+                        "diameter": "662",
+                        "width": "124",
+                        "measurement_rim": "2.75",
+                        "standard_rim": "2.75"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "120/80-18 M/C 62P",
+                        "pattern_type": "GP-610R W/T",
+                        "diameter": "664",
+                        "width": "122",
+                        "measurement_rim": "MT 2.75",
+                        "standard_rim": "MT 2.75"
+                    }
+                ]
+            },
+            {
+                "name": "GP-1",
+                "description": "เป็นทางเลือกที่ดีสำหรับรถที่ใช้บนสภาพถนนทั่วไป และกึ่งวิบาก\nสมรรถนะในการใช้งานเป็นเยี่ยม ด้วยยางคุณภาพสูง\nเลือก GP-1 สำหรับใช้งานในทุกสภาพถนน\nยางคุณภาพมาตรฐาน ผู้ประกอบรถจักรยานยนต์มั่นใจ เลือกใช้กับรถจักรยานยนต์ทั้งรุ่นเก่า และรุ่นใหม่\nได้รับการรับรองมาตาฐานยุโรป",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/GP-1-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "2.75-17 4PR (41P)",
+                        "pattern_type": "GP-1 W/T",
+                        "diameter": "590",
+                        "width": "76",
+                        "measurement_rim": "1.85",
+                        "standard_rim": "1.85"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "3.00-17 4PR (45P)",
+                        "pattern_type": "GP-1 W/T",
+                        "diameter": "604",
+                        "width": "80",
+                        "measurement_rim": "1.60",
+                        "standard_rim": "1.85"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "4.10-18 4 PR (59P)",
+                        "pattern_type": "GP-1 W/T",
+                        "diameter": "653",
+                        "width": "95",
+                        "measurement_rim": "2.15",
+                        "standard_rim": "2.15"
+                    }
+                ]
+            },
+            {
+                "name": "GP-210",
+                "description": "ลายดอกยางแบบหนาให้ความรู้สึกมั่นคง เมื่อขับขี่ด้วยความเร็วสูง\nเหมาะสำหรับใช้งานได้ทุกสภาพถนน ทั้งงถนนคอนกรีต ลาดยางและลูกรัง\nได้รับการยอมรับให้เป็นยางติดรถ Kawasaki VERSYS-300",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/GP-210-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "100/90-19 M/C 57S",
+                        "pattern_type": "GP-210F W/T",
+                        "diameter": "637",
+                        "width": "103",
+                        "measurement_rim": "MT 2.15",
+                        "standard_rim": "MT 2.50"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "130/80-17 M/C 65S",
+                        "pattern_type": "GP-210R W/T",
+                        "diameter": "637",
+                        "width": "129",
+                        "measurement_rim": "MT 3.00",
+                        "standard_rim": "MT 3.00"
+                    }
+                ]
+            },
+            {
+                "name": "GP-211",
+                "description": "\nถูกออกแบบหน้ายางที่ไม่เหมือนใคร\n\n\nคอมเปาว์ที่ถูกออกแบบและพัฒนาแบบพิเศษ ให้ความรู้สึกควบคุมง่าย ยึดเกาะกับพื้นถนนได้ดี แม้ขณะขับขี่ระยะทางไกล\n\n\nได้รับการยอมรับให้เป็นยางติดรถ Yamaha XSR155\n",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/GP-211-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "110/70-17 M/C 54S",
+                        "pattern_type": "GP-211F T/L",
+                        "diameter": "591",
+                        "width": "102",
+                        "measurement_rim": "MT 2.75",
+                        "standard_rim": "MT 2.75"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "140/70-17 M/C 66S",
+                        "pattern_type": "GP-211R T/L",
+                        "diameter": "627",
+                        "width": "141",
+                        "measurement_rim": "MT 4.00",
+                        "standard_rim": "MT 4.00"
+                    }
+                ]
+            },
+            {
+                "name": "GP-212",
+                "description": "ลายดอกยางแบบหนาให้ความรู้สึกมั่นคง เมื่อขับขี่ด้วยความเร็วสูง\nด้วยการออกแบบที่เป็นเอกลักษณ์ ทำให้การเข้าโค้งและการยึดเกาะถนนดีขึ้น\nได้รับการยอมรับให้เป็นยางติดรถ Honda ADV150",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/GP-212-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "110/80-14 M/C 53P",
+                        "pattern_type": "GP-212F T/L",
+                        "diameter": "537",
+                        "width": "108",
+                        "measurement_rim": "MT 2.50",
+                        "standard_rim": "MT 2.50"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "130/70-13 M/C 57P",
+                        "pattern_type": "GP-212R T/L",
+                        "diameter": "509",
+                        "width": "125",
+                        "measurement_rim": "MT 3.50",
+                        "standard_rim": "MT 3.50"
+                    }
+                ]
+            },
+            {
+                "name": "GP-21F",
+                "description": "เป็นยางวิบากแบบสปอร์ตที่เหมาะสำหรับการขับขี่บนสภาพถนนทั่วไป\nออกแบบสำหรับการขับขี่ที่ใช้งาน 70% บนถนนแบบกึ่งวิบาก และ 30% บนถนนทั่วไป\nลายดอกยางมีลักษณะแบบ Mega Block เหมาะสำหรับทุกสภาพถนนการเกาะถนนที่ดีเยี่ยมและการใช้งานที่ทนทาน\nเลือกใช้ GP21F และ GP22R คู่กันเพื่อการใช้งานที่ดีเยี่ยม\nได้รับการรับรองมาตรฐานจาก ยุโรป และ DOT สำหรับสหรัฐอเมริกา\nได้รับการยอมรับให้เป็นยางติดรถจักรยานยนต์ Honda CRF 250L*",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/GP-21F-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "*หน้า",
+                        "size": "2.75-21 45P",
+                        "pattern_type": "GP-21F W/T",
+                        "diameter": "693",
+                        "width": "82",
+                        "measurement_rim": "1.85",
+                        "standard_rim": "1.85"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "70/100-19 M/C 42P",
+                        "pattern_type": "GP-21F W/T",
+                        "diameter": "628",
+                        "width": "72",
+                        "measurement_rim": "1.40",
+                        "standard_rim": "1.60"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "3.00-21 51P",
+                        "pattern_type": "GP-21F W/T",
+                        "diameter": "697",
+                        "width": "89",
+                        "measurement_rim": "1.60",
+                        "standard_rim": "1.85"
+                    }
+                ]
+            },
+            {
+                "name": "GP-22R",
+                "description": "เป็นยางวิบากแบบสปอร์ตที่เหมาะสำหรับการขับขี่บนสภาพถนนทั่วไป\nออกแบบสำหรับการขับขี่ที่ใช้งาน 70% บนถนนแบบกึ่งวิบาก และ 30% บนถนนทั่วไป\nลายดอกยางมีลักษณะแบบ Mega Block เหมาะสำหรับทุกสภาพถนนการเกาะถนนที่ดีเยี่ยมและการใช้งานที่ทนทาน\nเลือกใช้ GP21F และ GP22R คู่กันเพื่อการใช้งานที่ดีเยี่ยม\nได้รับการรับรองมาตรฐานจาก ยุโรป และ DOT สำหรับสหรัฐอเมริกา\nได้รับการยอมรับให้เป็นยางติดรถจักรยานยนต์ Honda CRF 250L*",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/GP-22R-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "4.10-18 59P",
+                        "pattern_type": "GP-22R W/T",
+                        "diameter": "645",
+                        "width": "108",
+                        "measurement_rim": "2.50",
+                        "standard_rim": "2.15"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "70/100-19 M/C 42P",
+                        "pattern_type": "GP-21F W/T",
+                        "diameter": "628",
+                        "width": "72",
+                        "measurement_rim": "1.40",
+                        "standard_rim": "1.60"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "90/100-16 M/C 51P",
+                        "pattern_type": "GP-22R W/T",
+                        "diameter": "591",
+                        "width": "95",
+                        "measurement_rim": "1.85",
+                        "standard_rim": "2.15"
+                    },
+                    {
+                        "wheel_position": "*หลัง",
+                        "size": "120/80-18 M/C 62P",
+                        "pattern_type": "GP-22R W/T",
+                        "diameter": "657",
+                        "width": "119",
+                        "measurement_rim": "2.15",
+                        "standard_rim": "2.75"
+                    }
+                ]
+            },
+            {
+                "name": "GP-5",
+                "description": "ลายดอกยางถูกออกแบบให้ใช้งานทั้งถนนทางเรียบ และทางฝุ่น\nยางคอมเปาว์ดชนิดพิเศษ ถูกออกแบบให้ใช้ได้ทุกสภาพถนน\nโครงสร้างยางแข็งแรง ด้วยผ้าใบชนิดพิเศษ ทนทานทุกการใช้งาน\nเหมาะสำหรับทุกสภาพถนน ทั้งบนถนนคอนกรีต ลาดยาง และทางลูกรัง",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/GP-5-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "50/100-17 M/C 23P",
+                        "pattern_type": "GP5 W/T",
+                        "diameter": "533",
+                        "width": "50",
+                        "measurement_rim": "1.20",
+                        "standard_rim": "1.20"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "60/90-17 M/C 30P",
+                        "pattern_type": "GP5 W/T",
+                        "diameter": "543",
+                        "width": "58",
+                        "measurement_rim": "1.40",
+                        "standard_rim": "1.40"
+                    },
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "70/90-17 M/C 38P",
+                        "pattern_type": "GP5 W/T",
+                        "diameter": "560",
+                        "width": "67",
+                        "measurement_rim": "1.60",
+                        "standard_rim": "1.60"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "80/90-17 M/C 44P",
+                        "pattern_type": "GP5 W/T",
+                        "diameter": "578",
+                        "width": "80",
+                        "measurement_rim": "1.85",
+                        "standard_rim": "1.85"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "90/90-12 54J",
+                        "pattern_type": "GP5 T/L",
+                        "diameter": "472",
+                        "width": "90",
+                        "measurement_rim": "MT 2.15",
+                        "standard_rim": "MT 2.15"
+                    },
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "100/90-12 59J",
+                        "pattern_type": "GP5 T/L",
+                        "diameter": "487",
+                        "width": "101",
+                        "measurement_rim": "MT 2.50",
+                        "standard_rim": "MT 2.50"
+                    },
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "110/90-12 64L",
+                        "pattern_type": "GP5 T/L",
+                        "diameter": "503",
+                        "width": "109",
+                        "measurement_rim": "MT 2.50",
+                        "standard_rim": "MT 2.50"
+                    }
+                ]
+            },
+            {
+                "name": "TR",
+                "description": "เป็นทางเลือกที่ดีสำหรับรถที่ใช้บนสภาพถนนทั่วไป และกึ่งวิบาก\nสมรรถนะในการใช้งานเป็นเยี่ยม ด้วยยางคุณภาพสูง\nเลือก GP-1 สำหรับใช้งานในทุกสภาพถนน\nยางคุณภาพมาตรฐาน ผู้ประกอบรถจักรยานยนต์มั่นใจ เลือกใช้กับรถจักรยานยนต์ทั้งรุ่นเก่า และรุ่นใหม่\nได้รับการรับรองมาตาฐานยุโรป",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/TR-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "2.50-17 4PR (38L)",
+                        "pattern_type": "TR W/T",
+                        "diameter": "575",
+                        "width": "65",
+                        "measurement_rim": "1.60",
+                        "standard_rim": "1.60"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "2.50-18 4PR (40L)",
+                        "pattern_type": "TR W/T",
+                        "diameter": "603",
+                        "width": "64",
+                        "measurement_rim": "1.60",
+                        "standard_rim": "1.60"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "2.75-18 4PR (42P)",
+                        "pattern_type": "TR W/T",
+                        "diameter": "613",
+                        "width": "70",
+                        "measurement_rim": "1.40",
+                        "standard_rim": "1.85"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "3.00-18 4PR (47P)",
+                        "pattern_type": "TR W/T",
+                        "diameter": "632",
+                        "width": "77",
+                        "measurement_rim": "1.60",
+                        "standard_rim": "1.85"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "3.25-18 4PR (52P)",
+                        "pattern_type": "TR W/T",
+                        "diameter": "654",
+                        "width": "85",
+                        "measurement_rim": "2.15",
+                        "standard_rim": "2.15"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "3.50-18 4PR (56P)",
+                        "pattern_type": "TR W/T",
+                        "diameter": "648",
+                        "width": "97",
+                        "measurement_rim": "2.15",
+                        "standard_rim": "2.15"
+                    },
+                    {
+                        "wheel_position": "*หลัง",
+                        "size": "4.00-18 4PR (64P)",
+                        "pattern_type": "TR W/T",
+                        "diameter": "681",
+                        "width": "107",
+                        "measurement_rim": "2.1",
+                        "standard_rim": "2.15"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "2.75-19 4PR (43P)",
+                        "pattern_type": "TR W/T",
+                        "diameter": "646",
+                        "width": "72",
+                        "measurement_rim": "1.85",
+                        "standard_rim": "1.85"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "3.00-19 4PR (49P)",
+                        "pattern_type": "TR W/T",
+                        "diameter": "660",
+                        "width": "77",
+                        "measurement_rim": "1.85",
+                        "standard_rim": "1.85"
+                    },
+                    {
+                        "wheel_position": "*หน้า",
+                        "size": "2.75-21 4PR (45P)",
+                        "pattern_type": "TR W/T",
+                        "diameter": "693",
+                        "width": "71",
+                        "measurement_rim": "1.85",
+                        "standard_rim": "1.85"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "3.00-21 4PR (51P)",
+                        "pattern_type": "TR W/T",
+                        "diameter": "705",
+                        "width": "77",
+                        "measurement_rim": "1.60",
+                        "standard_rim": "1.85"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tire_type": "OFF-ROAD",
+        "tire_link": "https://www.irctirethailand.com/product-category/%e0%b8%a2%e0%b8%b2%e0%b8%87%e0%b8%a7%e0%b8%b4%e0%b8%9a%e0%b8%b2%e0%b8%81/",
+        "tires": [
+            {
+                "name": "VX40 Motorcross (Hard-ดินเเข็ง)",
+                "description": "ยางสำหรับการขับขี่ บนพื้นผิวแน่นเเข็ง ด้วยสูตรเนื้อยางแบบใหม่ เพื่อให้เกิดการใช้งานที่ดีที่สุด\nใช้สำหรับพื้นผิวทางที่หลากหลาย จนถึงพื้นดินแข็ง\nใช้วิ่งในป่าเขา และสภาพถนนทุรกันดาร ให้การยึดเกาะและการเข้าโค้งได้ดี\nเนื้อยางแบบใหม่ ทนต่อแรงกระแทก และเสริมแรงตะกุยได้ มากขึ้น เหมาะกับการใช้งานในพื้นผิวที่เเข็งเป็นพิเศษ เช่น  ดินเเข็ง หิน กรวด",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2022/11/VX-40-R-Hires-scaled-e1691984082623-570x463.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "80/100-21 51M",
+                        "pattern_type": "VX40F W/T",
+                        "diameter": "715",
+                        "width": "97",
+                        "measurement_rim": "1.85",
+                        "standard_rim": "1.85"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "90/90-21   54M",
+                        "pattern_type": "VX40F W/T",
+                        "diameter": "711",
+                        "width": "103",
+                        "measurement_rim": "2.15",
+                        "standard_rim": "2.15"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "120/80-19 63M",
+                        "pattern_type": "VX40 W/T",
+                        "diameter": "694",
+                        "width": "135",
+                        "measurement_rim": "2.15",
+                        "standard_rim": "2.15"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "110/90-19 62M",
+                        "pattern_type": "VX40 W/T",
+                        "diameter": "692",
+                        "width": "135",
+                        "measurement_rim": "2.50",
+                        "standard_rim": "2.50"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "110/100-18 64M",
+                        "pattern_type": "VX40 W/T",
+                        "diameter": "684",
+                        "width": "134",
+                        "measurement_rim": "2.50",
+                        "standard_rim": "2.50"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "120/90-18 65M",
+                        "pattern_type": "VX40 W/T",
+                        "diameter": "683",
+                        "width": "134",
+                        "measurement_rim": "2.75",
+                        "standard_rim": "2.75"
+                    }
+                ]
+            },
+            {
+                "name": "VX30 ENDURO",
+                "description": "ถูกพัฒนาร่วมกันกับนักบิดมืออาชีพ\nเหมาะสำหรับสภาพสนาม Soft ไปจนถึง Medium\nเพิ่มแรงยึดเกาะ ซึมซับแรงกระแทก\nเนื้อยางคอมเปาว์สูตรใหม่ ออกตัวไว เบรคแน่น ทนทาน",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/03/VX30-570x450.png",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "80/100-21 51M",
+                        "pattern_type": "VX30F W/T",
+                        "diameter": "713",
+                        "width": "98",
+                        "measurement_rim": "1.85",
+                        "standard_rim": "1.85"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "90/90-21 54M",
+                        "pattern_type": "VX30F W/T",
+                        "diameter": "715",
+                        "width": "104",
+                        "measurement_rim": "2.15",
+                        "standard_rim": "2.15"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "100/100-18 59 M",
+                        "pattern_type": "VX30 W/T",
+                        "diameter": "655",
+                        "width": "124",
+                        "measurement_rim": "2.50",
+                        "standard_rim": "2.50"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "110/100-18 64M",
+                        "pattern_type": "VX30 W/T",
+                        "diameter": "681",
+                        "width": "133",
+                        "measurement_rim": "2.50",
+                        "standard_rim": "2.50"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "120/90-18 65M",
+                        "pattern_type": "VX30 W/T",
+                        "diameter": "682",
+                        "width": "135",
+                        "measurement_rim": "2.75",
+                        "standard_rim": "2.75"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "110/90-19 62M",
+                        "pattern_type": "VX30 W/T",
+                        "diameter": "690",
+                        "width": "134",
+                        "measurement_rim": "2.50",
+                        "standard_rim": "2.50"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "120/80-19 63M",
+                        "pattern_type": "VX30 W/T",
+                        "diameter": "692",
+                        "width": "134",
+                        "measurement_rim": "2.75",
+                        "standard_rim": "2.75"
+                    }
+                ]
+            },
+            {
+                "name": "VX-10",
+                "description": "ยางรถจักรยานยนต์วิบากสำหรับ Mini-Motorcross โดยเฉพาะ\nลายดอกยางสวยทันสมัย เหมาะสำหรับรถวิบากทุกรุ่นตั้งแต่ 50-80 ซีซี\nเหมาะสำหรับการแข่งขันบนถนนวิบาก เนื้อยางเหนียว ทนทาน",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/VX-10-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "60/100-12 36J",
+                        "pattern_type": "VX-10F W/T",
+                        "diameter": "434",
+                        "width": "71",
+                        "measurement_rim": "1.40",
+                        "standard_rim": "1.40"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "60/100-14 29M",
+                        "pattern_type": "VX-10F W/T",
+                        "diameter": "487",
+                        "width": "71",
+                        "measurement_rim": "1.40",
+                        "standard_rim": "1.40"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "60/100-16 31M",
+                        "pattern_type": "VX-10F W/T",
+                        "diameter": "536",
+                        "width": "71",
+                        "measurement_rim": "1.40",
+                        "standard_rim": "1.40"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "70/100-17 40M",
+                        "pattern_type": "VX-10F W/T",
+                        "diameter": "583",
+                        "width": "83",
+                        "measurement_rim": "1.85",
+                        "standard_rim": "1.85"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "70/100-19 42M",
+                        "pattern_type": "VX-10F W/T",
+                        "diameter": "639",
+                        "width": "84",
+                        "measurement_rim": "1.60",
+                        "standard_rim": "1.60"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "80/100-10 46J",
+                        "pattern_type": "VX-10 W/T",
+                        "diameter": "420",
+                        "width": "95",
+                        "measurement_rim": "1.60",
+                        "standard_rim": "1.60"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "80/100-12 50M",
+                        "pattern_type": "VX-10 W/T",
+                        "diameter": "470",
+                        "width": "95",
+                        "measurement_rim": "1.85",
+                        "standard_rim": "1.85"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "90/100-14 49M",
+                        "pattern_type": "VX-10 W/T",
+                        "diameter": "554",
+                        "width": "111",
+                        "measurement_rim": "2.15",
+                        "standard_rim": "2.15"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "90/100-16 51M",
+                        "pattern_type": "VX-10 W/T",
+                        "diameter": "605",
+                        "width": "112",
+                        "measurement_rim": "2.15",
+                        "standard_rim": "2.15"
+                    },
+                    {
+                        "wheel_position": "หน้า\nหลัง",
+                        "size": "60/100-10 33J",
+                        "pattern_type": "VX-10F W/T",
+                        "diameter": "384",
+                        "width": "71",
+                        "measurement_rim": "1.40",
+                        "standard_rim": "1.40"
+                    }
+                ]
+            },
+            {
+                "name": "45Z1",
+                "description": "ยุคใหม่ของยางรถจักรยานยนต์แบบวิบาก\nโครงสร้างที่แข็งแรงเหมาะสำหรับพื้นสนามที่ค่อนข้างแข็งจนถึงธรรมดา\nลวดลายและโครงสร้างออกแบบสำหรับถนนวิบากโดยเฉพาะ",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/45Z1-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "2.50-16 4PR (36L)",
+                        "pattern_type": "45Z1 W/T",
+                        "diameter": "550",
+                        "width": "76",
+                        "measurement_rim": "1.60",
+                        "standard_rim": "1.60"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "3.60-14 4PR (43P)",
+                        "pattern_type": "45Z1 W/T",
+                        "diameter": "531",
+                        "width": "97",
+                        "measurement_rim": "2.15",
+                        "standard_rim": "2.15"
+                    }
+                ]
+            },
+            {
+                "name": "GS-45F",
+                "description": "โครงสร้างยางแข็งแกร่ง เหมาะสำหรับการใช้งานกับรถโมโตครอสขนาดเล็กที่สมบุกสมบัน\nลายดอกยางและโครงสร้างถูกออกแบบให้ใช้กับถนนลูกรัง และโคลน\nได้รับการยอมรับให้เป็นยางติดรถ Kawasaki KLX110",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/GS-45F-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "2.50-14 4PR",
+                        "pattern_type": "GS-45F W/T",
+                        "diameter": "496",
+                        "width": "74",
+                        "measurement_rim": "1.46",
+                        "standard_rim": "1.60"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "3.00-12 4PR",
+                        "pattern_type": "GS-45F W/T",
+                        "diameter": "474",
+                        "width": "94",
+                        "measurement_rim": "1.60",
+                        "standard_rim": "1.85"
+                    }
+                ]
+            },
+            {
+                "name": "IX-05H (Fronts)",
+                "description": "ยางรถจักรยานยนต์วิบากรุ่นใหม่\nสมรรถนะโดดเด่นบนพื้นสนามแข่งที่ค่อนข้างแข็งจนถึงธรรมดา\nเนื้อยางคุณภาพเยี่ยม และออกแบบลายดอกยางสำหรับการแข่ง Max Racing และการแข่งขันรถจักรยานยนต์วิบาก\nได้รับการยอมรับให้เป็นยางติดรถจักรยานยนต์ Kawasaki KLX 140L",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/IX-05H-F-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "70/100-17 40M",
+                        "pattern_type": "IX-05H W/T",
+                        "diameter": "583",
+                        "width": "81",
+                        "measurement_rim": "1.60",
+                        "standard_rim": "1.60"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "70/100-19 42M",
+                        "pattern_type": "iX-05H W/T",
+                        "diameter": "630",
+                        "width": "79",
+                        "measurement_rim": "1.60",
+                        "standard_rim": "1.60"
+                    }
+                ]
+            },
+            {
+                "name": "IX-05H (Rear)",
+                "description": "ยางรถจักรยานยนต์วิบากรุ่นใหม่\nสมรรถนะโดดเด่นบนพื้นสนามแข่งที่ค่อนข้างแข็งจนถึงธรรมดา\nเนื้อยางคุณภาพเยี่ยม และออกแบบลายดอกยางสำหรับการแข่ง Max Racing และการแข่งขันรถจักรยานยนต์วิบาก\nได้รับการยอมรับให้เป็นยางติดรถจักรยานยนต์ Kawasaki KLX 140L",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/IX-05H-R-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "90/100-14 49 M",
+                        "pattern_type": "iX-05H W/T",
+                        "diameter": "540",
+                        "width": "105",
+                        "measurement_rim": "2.15",
+                        "standard_rim": "2.15"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "90/100-16 52M",
+                        "pattern_type": "iX-05H W/T",
+                        "diameter": "595",
+                        "width": "104",
+                        "measurement_rim": "2.15",
+                        "standard_rim": "2.15"
+                    }
+                ]
+            },
+            {
+                "name": "IX-07S",
+                "description": "เป็นสุดยอดยางโมโตครอสขนาดเล็ก\nลายดอกยางมีลักษณะลายบล็อกที่สมดุลย์ เหมาะสำหรับการขับแข่งในสนามแข่ง Soft-Medium Terrain\nใช้ประกอบกับรถจักรยานยนต์ Suzuki (Mini Motorcross)",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/IX-07S-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "2.50-10 33J",
+                        "pattern_type": "iX-07S W/T",
+                        "diameter": "388",
+                        "width": "69",
+                        "measurement_rim": "1.50",
+                        "standard_rim": "1.50"
+                    }
+                ]
+            },
+            {
+                "name": "IX-KIDs (Fronts)",
+                "description": "ยางรถจักรยานยนต์วิบากสำหรับ Mini-Motocross โดยเฉพาะ\nลายดอกยางสวยทันสมัย เหมาะสำหรับยางวิบากทุกรุ่น ขนาดตั้งแต่ 50-80 ซีซี\nเหมาะสำหรับการแข่งขันบนถนนวิบากเนื้อยางเหนียว ทนทาน",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/IX-KIDs-Fronts-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "60/100-10 32M",
+                        "pattern_type": "iX-KIDS W/T",
+                        "diameter": "378",
+                        "width": "70",
+                        "measurement_rim": "1.40",
+                        "standard_rim": "1.40"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "60/100-12 36M",
+                        "pattern_type": "iX-KIDS W/T",
+                        "diameter": "425",
+                        "width": "68",
+                        "measurement_rim": "1.40",
+                        "standard_rim": "1.40"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "60/100-14 30M",
+                        "pattern_type": "IX-KIDs W/T",
+                        "diameter": "477",
+                        "width": "66",
+                        "measurement_rim": "1.40",
+                        "standard_rim": "1.40"
+                    }
+                ]
+            },
+            {
+                "name": "IX-KIDs (Rear)",
+                "description": "ยางรถจักรยานยนต์วิบากสำหรับ Mini-Motocross โดยเฉพาะ\nลายดอกยางสวยทันสมัย เหมาะสำหรับยางวิบากทุกรุ่น ขนาดตั้งแต่ 50-80 ซีซี\nเหมาะสำหรับการแข่งขันบนถนนวิบากเนื้อยางเหนียว ทนทาน",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/IX-KIDs-Rear-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "80/100-10 46M",
+                        "pattern_type": "iX-KIDS W/T",
+                        "diameter": "420",
+                        "width": "92",
+                        "measurement_rim": "1.85",
+                        "standard_rim": "1.85"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "80/100-12 50M",
+                        "pattern_type": "iX-KIDS W/T",
+                        "diameter": "473",
+                        "width": "92",
+                        "measurement_rim": "1.85",
+                        "standard_rim": "1.85"
+                    }
+                ]
+            },
+            {
+                "name": "M5BEVO",
+                "description": "ให้ประสิทธิภาพที่เหนือกว่าสำหรับการใช้งานในดินร่วยซุยและทางโคลน\nด้วยระยะห่างระหว่างบล็อกของดอกยางถูกออกแบบให้กว้างเป็นพิเศษเพื่อป้องกันการสะสมของโคลน\nความลึกพิเศษของร่องดอกยาง ช่วยเพิ่มประสิทธิภาพการตะกุยในโคลนให้ดียิ่งขึ้น\nด้วยความสามารถในเรื่องแรงฉุดที่โดดเด่นทำให้ M5B EVO เหมาะสำหรับใช้การแข่งขัน Climb Hill",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/M5B-EVOs-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "100/90-19 57M",
+                        "pattern_type": "M5B EVO W/T",
+                        "diameter": "685",
+                        "width": "121",
+                        "measurement_rim": "2.50",
+                        "standard_rim": "2.50"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "110/80-18 58M",
+                        "pattern_type": "M5B EVO W/T",
+                        "diameter": "669",
+                        "width": "122",
+                        "measurement_rim": "2.50",
+                        "standard_rim": "2.50"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "110/90-19 62M",
+                        "pattern_type": "M5B EVO W/T",
+                        "diameter": "695",
+                        "width": "130",
+                        "measurement_rim": "2.50",
+                        "standard_rim": "2.50"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "120/80-18 62M",
+                        "pattern_type": "M5B EVO W/T",
+                        "diameter": "660",
+                        "width": "120",
+                        "measurement_rim": "2.75",
+                        "standard_rim": "2.75"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "130/80-18 66M",
+                        "pattern_type": "M5B EVO W/T",
+                        "diameter": "698",
+                        "width": "135",
+                        "measurement_rim": "3.00",
+                        "standard_rim": "3.00"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "140/80-18 70M",
+                        "pattern_type": "M5B EVO W/T",
+                        "diameter": "692",
+                        "width": "140",
+                        "measurement_rim": "3.50",
+                        "standard_rim": "3.50"
+                    }
+                ]
+            },
+            {
+                "name": "MAO",
+                "description": "เป็นสุดยอดยางโมโตครอสขนาดเล็ก\nลายดอกยางมีลักษณะลายบล็อกที่สมดุลย์ เหมาะสำหรับการขับแข่งในสนามแข่ง Soft-Medium Terrain\nใช้ประกอบกับรถจักรยานยนต์ Yamaha PW 50.",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/MOA-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "90/100-17 53M",
+                        "pattern_type": "MAO W/T",
+                        "diameter": "612",
+                        "width": "90",
+                        "measurement_rim": "2.15",
+                        "standard_rim": "2.15"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tire_type": "Classic",
+        "tire_link": "https://www.irctirethailand.com/product-category/%e0%b8%a2%e0%b8%b2%e0%b8%87%e0%b8%84%e0%b8%a5%e0%b8%b2%e0%b8%aa%e0%b8%aa%e0%b8%b4%e0%b8%81/",
+        "tires": [
+            {
+                "name": "GS-23",
+                "description": "เป็นยางที่ถูกออกแบบสำหรับรถจักรยานยนต์ ครุยเซอร์ โดยเฉพาะ\nโครงสร้างมีความแข็งแกร่งสูง ทำให้ได้รับการยอมรับในด้านความมีเสถียรภาพในการขับขี่ที่ความเร็วสูงเป็นเยี่ยม\nลายดอกยางเหมาะสมกับการขับขี่บนทางหลวง และใช้ได้กับทุกสภาพถนน",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2022/11/GS-23-F-F-Hires-1-570x855.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "130/90-16  67H",
+                        "pattern_type": "GS-23F/E T/L",
+                        "diameter": "638",
+                        "width": "132",
+                        "measurement_rim": "MT 3.00",
+                        "standard_rim": "MT 3.00"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "150/80-16   71H",
+                        "pattern_type": "GS-23R T/L",
+                        "diameter": "652",
+                        "width": "161",
+                        "measurement_rim": "MT 3.50",
+                        "standard_rim": "MT 3.50"
+                    }
+                ]
+            },
+            {
+                "name": "NF52",
+                "description": "ลายดอกยางออกแบบลวดลายสไตล์อเมริกัน\nควบคุมการขับขี่ได้ง่าย เหมาะสำหรับอเมริกันไบค์\nทนทานต่อการใช้งาน\nใช้ประกอบกับรถจักรยานยนต์ Honda Phantom 200 ซีซี\nมีให้เลือกทั้งแบบใช้กับยางใน และไม่ใช้ยางใน",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NF52-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "90/90-17 M/C 49P",
+                        "pattern_type": "NF52 W/T",
+                        "diameter": "598",
+                        "width": "90",
+                        "measurement_rim": "2.15",
+                        "standard_rim": "2.15"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "90/90-17 M/C 49P",
+                        "pattern_type": "NF52 T/L",
+                        "diameter": "597",
+                        "width": "90",
+                        "measurement_rim": "MT 2.15",
+                        "standard_rim": "MT 2.15"
+                    }
+                ]
+            },
+            {
+                "name": "NF53",
+                "description": "เป็นยางที่ขับขี่นุ่มนวลสบายเหมาะกับสภาพถนนทั่วไป\nใช้ประกอบกับรถจักรยานยนต์ Kawazaki รุ่น Boss (ยางต้องใช้ยางใน)\nเนื้อยางคอมเปาว์ดชนิดพิเศษ (Soft Compound) สำหรับยางที่ไม่ใช้ยางใน (Tubeless Type)",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NF53-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "90/90-17 M/C 49P",
+                        "pattern_type": "NF53 W/T*",
+                        "diameter": "594",
+                        "width": "88",
+                        "measurement_rim": "2.15",
+                        "standard_rim": "2.15"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "90/90-17 M/C 49P",
+                        "pattern_type": "NF53 T/L",
+                        "diameter": "594",
+                        "width": "89",
+                        "measurement_rim": "MT 2.15",
+                        "standard_rim": "MT 2.15\nSoft Compound"
+                    }
+                ]
+            },
+            {
+                "name": "NR66",
+                "description": "ลายดอกยางออกแบบลวดลายสไตล์อเมริกัน\nทนทานต่อการใช้งาน\nใช้ประกอบกับรถจักรยานยนต์ Honda Phantom 200 ซีซี\nมีให้เลือกทั้งแบบใช้กับยางใน และไม่ใช้ยางใน",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NR66-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "130/90-15 M/C 66P",
+                        "pattern_type": "NR66 W/T",
+                        "diameter": "616",
+                        "width": "129",
+                        "measurement_rim": "2.75",
+                        "standard_rim": "3.00"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "130/90-15 M/C 66P",
+                        "pattern_type": "NR66 T/L",
+                        "diameter": "615",
+                        "width": "127",
+                        "measurement_rim": "MT 2.75",
+                        "standard_rim": "MT 3.00"
+                    },
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "110/90-16 M/C 65P",
+                        "pattern_type": "NR66 W/T",
+                        "diameter": "605",
+                        "width": "108",
+                        "measurement_rim": "2.50",
+                        "standard_rim": "2.50"
+                    },
+                    {
+                        "wheel_position": "หน้า หลัง",
+                        "size": "110/90-16 M/C 65P",
+                        "pattern_type": "NR66 T/L",
+                        "diameter": "608",
+                        "width": "110",
+                        "measurement_rim": "MT 2.50",
+                        "standard_rim": "MT 2.50"
+                    }
+                ]
+            },
+            {
+                "name": "NR67",
+                "description": "เป็นยางที่ขับขี่นุ่มนวลสบายเหมาะกับสภาพถนนทั่วไป\nทนทานต่อการใช้งาน\nใช้ประกอบกับรถจักรยานยนต์ Kawazaki รุ่น Boss (ยางต้องใช้ยางใน)\nเนื้อยางคอมเปาว์ดชนิดพิเศษ (Soft Compound) สำหรับยางที่ไม่ใช้ยางใน (Tubeless Type)",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/NR67-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "130/90-15 M/C 66P",
+                        "pattern_type": "NR67 W/T*",
+                        "diameter": "615",
+                        "width": "128",
+                        "measurement_rim": "2.75",
+                        "standard_rim": "3.00"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "130/90-15 M/C 66P",
+                        "pattern_type": "NR67 T/L",
+                        "diameter": "618",
+                        "width": "129",
+                        "measurement_rim": "MT 2.75",
+                        "standard_rim": "MT 3.00\nSoft Compound"
+                    }
+                ]
+            },
+            {
+                "name": "RT-01",
+                "description": "\nลายดอกยางรูปฝันเลื่อยแบบคลาสสิก เหมาะกับรถสไตล์ Retro\n\n\nลายดอกยางถูกออกแบบให้มีความทนทาน และรีดน้ำได้อย่างมีประสิทธิภาพ\n\n\nเนื้อยางคอมเปาว์ชนิดพิเศษ เกาะถนนเป็นเยี่ยม\n",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/RT01-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "110/70-17 M/C 54P",
+                        "pattern_type": "RT-01F T/L",
+                        "diameter": "591",
+                        "width": "109",
+                        "measurement_rim": "MT 3.00",
+                        "standard_rim": "MT 3.00"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "110/100-18 M/C 64P",
+                        "pattern_type": "RT-01F T/L",
+                        "diameter": "672",
+                        "width": "111",
+                        "measurement_rim": "MT 2.50",
+                        "standard_rim": "MT 2.50"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "130/70-17 M/C 62P",
+                        "pattern_type": "RX-01R T/L",
+                        "diameter": "618",
+                        "width": "127",
+                        "measurement_rim": "MT 3.50",
+                        "standard_rim": "MT 3.50"
+                    },
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "120/100-18 M/C 68P",
+                        "pattern_type": "RT-01R T/L",
+                        "diameter": "691",
+                        "width": "122",
+                        "measurement_rim": "MT 2.75",
+                        "standard_rim": "MT 2.75"
+                    }
+                ]
+            },
+            {
+                "name": "WF-920F",
+                "description": "ถูกออกแบบอย่างเหมาะสม ในความสวยงามของดอกยาง และสมรรถนะการใช้งาน\nยางคอมเปาวด์ เนื้อพิเศษ ช่วยให้การเกาะถนนบนถนนเปียก และแห้งอย่างมั่นใจ\nเหมาะสมอย่างยิ่งสำหรับรถแบบคลุยเซอร์ (Cruisers) และรถออร์โตเมติก (Automatic)*",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/WF920F-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "90/90-17 M/C 49P",
+                        "pattern_type": "WF920F T/L",
+                        "diameter": "570",
+                        "width": "90",
+                        "measurement_rim": "MT 2.15",
+                        "standard_rim": "MT 2.15"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "80/90-14 M/C 40P",
+                        "pattern_type": "WF-920F T/L",
+                        "diameter": "500",
+                        "width": "80",
+                        "measurement_rim": "MT 1.85",
+                        "standard_rim": "MT 1.85"
+                    },
+                    {
+                        "wheel_position": "หน้า",
+                        "size": "70/90-14 M/C 34P",
+                        "pattern_type": "WF-920F W/T",
+                        "diameter": "483",
+                        "width": "67",
+                        "measurement_rim": "1.60",
+                        "standard_rim": "1.60"
+                    }
+                ]
+            },
+            {
+                "name": "WF-920R",
+                "description": "ถูกออกแบบอย่างเหมาะสม ในความสวยงามของดอกยาง และสมรรถนะการใช้งาน\nยางคอมเปาวด์ เนื้อพิเศษ ช่วยให้การเกาะถนนบนถนนเปียก และแห้งอย่างมั่นใจ\nเหมาะสมอย่างยิ่งสำหรับรถแบบคลุยเซอร์ (Cruisers) และรถออร์โตเมติก (Automatic)*",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/WF920R-570x450.jpg",
+                "sizes": [
+                    {
+                        "wheel_position": "หลัง",
+                        "size": "130/90-15 M/C 66P",
+                        "pattern_type": "WF920R T/L",
+                        "diameter": "616",
+                        "width": "130",
+                        "measurement_rim": "MT 2.75",
+                        "standard_rim": "MT 3.00"
+                    },
+                    {
+                        "wheel_position": "* หน้า",
+                        "size": "80/90-14 M/C 40P",
+                        "pattern_type": "WF-920F T/L",
+                        "diameter": "500",
+                        "width": "80",
+                        "measurement_rim": "MT 1.85",
+                        "standard_rim": "MT 1.85"
+                    },
+                    {
+                        "wheel_position": "* หลัง",
+                        "size": "90/80-14 M/C 49P",
+                        "pattern_type": "WF-920R T/L",
+                        "diameter": "502",
+                        "width": "88",
+                        "measurement_rim": "MT 2.15",
+                        "standard_rim": "MT 2.15"
+                    },
+                    {
+                        "wheel_position": "* หลัง",
+                        "size": "100/70-14 M/C 51P",
+                        "pattern_type": "WF-920R T/L",
+                        "diameter": "495",
+                        "width": "96",
+                        "measurement_rim": "MT 2.50",
+                        "standard_rim": "MT 2.75"
+                    },
+                    {
+                        "wheel_position": "* หลัง",
+                        "size": "80/90-14 M/C 40P",
+                        "pattern_type": "WF-920R W/T",
+                        "diameter": "500",
+                        "width": "80",
+                        "measurement_rim": "1.85",
+                        "standard_rim": "1.85"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "tire_type": "TUBE",
+        "tire_link": "https://www.irctirethailand.com/product-category/%e0%b8%a2%e0%b8%b2%e0%b8%87%e0%b9%83%e0%b8%99/",
+        "tires": [
+            {
+                "name": "ยางใน",
+                "description": "",
+                "image": "https://www.irctirethailand.com/wp-content/uploads/2021/01/Natural-Tube-570x450.jpg",
+                "sizes": []
+            }
+        ]
+    }
+]
